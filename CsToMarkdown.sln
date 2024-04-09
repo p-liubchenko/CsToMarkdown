@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsToMarkdown", "CsToMarkdown\CsToMarkdown.csproj", "{FEF71012-7B8C-4A42-B533-E0F926CA66E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "devops", "devops", "{C64F5834-F091-4966-9CE3-FACB21D2DE20}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF71012-7B8C-4A42-B533-E0F926CA66E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF71012-7B8C-4A42-B533-E0F926CA66E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF71012-7B8C-4A42-B533-E0F926CA66E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF71012-7B8C-4A42-B533-E0F926CA66E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259B2D89-DCBF-4EB5-8EAD-247D2C7B6CE4}
+	EndGlobalSection
+EndGlobal
